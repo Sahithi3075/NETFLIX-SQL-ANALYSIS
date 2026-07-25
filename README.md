@@ -19,8 +19,6 @@ This project analyses the Netflix Movies and TV Shows dataset using SQL to uncov
 - CASE WHEN
 - Aggregate Functions
 - JOINs (if applicable)
-- CTEs
-- Window Functions
 - Subqueries
 
 ## 📈 Business Questions Solved
@@ -31,7 +29,6 @@ This project analyses the Netflix Movies and TV Shows dataset using SQL to uncov
 - Longest movies
 - Most popular genres
 - Directors with the highest number of titles
-- ... (list all the queries you solved)
 
 ## 📁 Files
 - NETFLIX-SQL-ANALYSIS.sql
